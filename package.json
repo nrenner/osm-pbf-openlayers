@@ -1,0 +1,9 @@
+{
+    "name": "osm-pbf-openlayers",
+    "version": "0.1.0",
+    "description": "OpenLayers format class for reading OpenStreetMap PBF (.osm.pbf)",
+    "main": "index.js",
+    "dependencies": {
+        "osm-pbf": "0.1.0"
+    }
+}
